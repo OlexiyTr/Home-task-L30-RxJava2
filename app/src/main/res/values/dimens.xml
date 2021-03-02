@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="banned_post_item_recycle_view_layoutHeight">20dp</dimen>
+    <dimen name="banned_post_item_recycle_view_tv_banned_text_textSize">20sp</dimen>
+    <dimen name="crate_new_post_fragment_til_marginHorizontal">12dp</dimen>
+    <dimen name="crate_new_post_fragment_til_title_marginTop">50dp</dimen>
+    <dimen name="crate_new_post_fragment_til_body_marginTop">12dp</dimen>
+    <dimen name="show_all_posts_fragment_tv_error_textSize">24sp</dimen>
+    <dimen name="activity_main_tv_download_error_textSize">24sp</dimen>
+    <dimen name="textsize">24sp</dimen>
+    <dimen name="margin_for_title">20dp</dimen>
+    <dimen name="margin_for_body">20dp</dimen>
+    <dimen name="textsize1">24sp</dimen>
+    <dimen name="padding1">20dp</dimen>
+    <dimen name="layout_margint_banned_post">20dp</dimen>
+    <dimen name="zero_width">0dp</dimen>
+    <dimen name="textSizeTitle">16sp</dimen>
+</resources>

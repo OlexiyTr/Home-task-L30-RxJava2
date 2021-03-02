@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Home-task-L30-RxJavaV2</string>
+    <string name="body_length_min_error">Body length min</string>
+    <string name="body_length_max_error">Body length max</string>
+    <string name="title_length_min_error">Title length min</string>
+    <string name="title_length_max_error">Title length max</string>
+    <string name="forbidden_word">word</string>
+    <string name="et_title_hint">Title</string>
+    <string name="et_body_hint">Body</string>
+    <string name="done">Confirm</string>
+    <string name="local_storage_is_empty">Local storage is empty!</string>
+    <string name="add_new_post">add new post</string>
+    <string name="error_text">Error!</string>
+    <string name="success_text">Success!</string>
+    <string name="loading_text">Loading...</string>
+    <string name="error_loading_from_api">Error get posts from API</string>
+    <string name="with_warning">З попередженням</string>
+    <string name="user_id">User id : %1$s</string>
+    <string name="ban">Тут міг бути пост юзера %1$d, але він забанений</string>
+    <string name="warning">З попередженням</string>
+
+    <string-array name="forbidden_words">
+        <item>куплю</item>
+        <item>товар</item>
+        <item>реклама</item>
+    </string-array>
+</resources>
